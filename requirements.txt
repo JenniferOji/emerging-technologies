@@ -1,0 +1,8 @@
+# NumPy is used for efficient numerical operations and array handling in classical and quantum algorithms.
+numpy
+
+# Quantum computing
+# Qiskit provides tools for building, simulating, and running quantum circuits on classical and quantum hardware.
+qiskit
+# Qiskit Aer offers high performance quantum circuit simulators for testing and debugging quantum algorithms.
+qiskit-aer
