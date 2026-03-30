@@ -6,3 +6,5 @@ numpy
 qiskit
 # Qiskit Aer offers high performance quantum circuit simulators for testing and debugging quantum algorithms.
 qiskit-aer
+
+matplotlib
