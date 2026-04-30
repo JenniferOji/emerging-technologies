@@ -120,11 +120,10 @@ Below are key resources used throughout this project to support both the impleme
 - [IBM Quantum Learning - Deutsch Algorithm](https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms/quantum-query-algorithms/deutsch-algorithm)  
   Used to guide the implementation of Deutsch’s algorithm and understand its one-query advantage.
 
-
 - [IBM Quantum Learning - Deutsch-Jozsa Algorithm](https://quantum.cloud.ibm.com/learning/en/modules/computer-science/deutsch-jozsa)  
   Used to extend the algorithm to multiple input qubits and understand its exponential speedup.
 
-- [Deutsch–Jozsa Algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm)  
+- [Deutsch-Jozsa Algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm)  
   Used to explain the extension to multi-bit functions and the concept of quantum speedup.
 
 - [Quantum Superposition (Wikipedia)](https://en.wikipedia.org/wiki/Quantum_superposition)  
@@ -138,9 +137,6 @@ Below are key resources used throughout this project to support both the impleme
 
 - [Black Box (Wikipedia)](https://en.wikipedia.org/wiki/Black_box)  
   Used to describe oracle-style functions in both classical and quantum contexts.
-
-- [Python Closures](https://www.geeksforgeeks.org/python/python-closures/)  
-  Used to implement hidden (black-box) functions using closures.
 
 ---
 
