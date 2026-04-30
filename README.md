@@ -4,6 +4,8 @@ This repository contains a series of implementations and analyses exploring clas
 
 This project aims to illustrate the computational advantage of quantum algorithms over classical approaches in query-based problems.
 
+The project progresses from classical approaches to quantum implementations, allowing direct comparison of query complexity and computational efficiency.
+
 ## Table of Contents
 
 - [Key Sections](#key-sections)
